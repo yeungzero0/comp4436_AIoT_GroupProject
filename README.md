@@ -36,5 +36,7 @@
 ---
 
 ## Demo Video
+
+![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/AIoT2025_Timg.png)
 https://youtu.be/eZ4Px_n9w24  
 
