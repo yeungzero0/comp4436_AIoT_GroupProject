@@ -1,4 +1,4 @@
-# IoT-Based - Simulation Smart Parking System (COMP4436)
+# AIoT-Based - Simulation Smart Parking System (COMP4436)
 
 [![Arduino](https://img.shields.io/badge/Arduino-328P-blue)](https://www.arduino.cc/)
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
@@ -7,7 +7,7 @@
 [![ThingSpeak](https://img.shields.io/badge/ThingSpeak-Cloud-orange)](https://thingspeak.com/)
 
 **POLYU COMP4436 Artificial Intelligence of Things (AIoT) - Group Project**  
-一個基於 IoT 的智能停車場系統，結合硬體感測、雲端資料傳輸、SNN 預測模型與 Node-RED 即時儀表板，能夠實時監測停車位使用情況、提供動態定價建議及長期使用模式分析。
+一個基於 AIoT 的智能停車場系統，結合硬體感測、雲端資料傳輸、SNN 預測模型與 Node-RED 即時儀表板，能夠實時監測停車位使用情況、提供動態定價建議及長期使用模式分析。
 
 ---
 
