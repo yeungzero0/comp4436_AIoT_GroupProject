@@ -1,4 +1,4 @@
-# IoT-Based Smart Parking System (COMP4436)
+# IoT-Based - Simulation Smart Parking System (COMP4436)
 
 [![Arduino](https://img.shields.io/badge/Arduino-328P-blue)](https://www.arduino.cc/)
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
