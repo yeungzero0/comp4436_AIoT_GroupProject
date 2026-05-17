@@ -34,9 +34,15 @@
 - **動態定價**：根據占用率自動建議提高/降低收費（High/Low Demand Strategy）
 
 ---
+## WorkFlow & Table
+![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/img/1.png)  
+![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/img/2.png)  
+![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/img/3.png)  
+![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/img/4.png)  
+![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/img/5.png)  
+
 
 ## Demo Video
-
-![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/AIoT2025_Timg.png)
+![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/AIoT2025_Timg.png)  
 https://youtu.be/eZ4Px_n9w24  
 
