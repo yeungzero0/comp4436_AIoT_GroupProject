@@ -35,7 +35,7 @@
 
 ---
 ## WorkFlow & Table
-![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/img/1.png)  
+![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/img/1.png)
 ![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/img/2.png)  
 ![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/img/3.png)  
 ![image](https://github.com/yeungzero0/comp4436_AIoT_GroupProject/blob/main/img/4.png)  
